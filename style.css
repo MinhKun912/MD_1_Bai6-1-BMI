@@ -1,0 +1,22 @@
+.contai{
+    background: pink;
+    border:2px solid red;
+    box-sizing: border-box;
+
+}
+tr td{
+    text-align: center;
+    border: 1px solid  green;
+}
+table{
+border: 1px solid  green;
+margin-left: auto;
+    margin-right: auto  ;
+}
+button{
+    border-radius: 12px;
+    background: pink;
+    color: green;
+    font-weight: bold;
+    width: 150px;
+}
